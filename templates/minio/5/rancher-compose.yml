@@ -1,7 +1,7 @@
 version: '2'
 catalog:
   name: Minio
-  version: 2018-10-18_1
+  version: 2018-11-15_1
   questions:
     - variable: "MINIO_SCALE"
       description: "Number of minio nodes."
